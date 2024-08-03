@@ -26,6 +26,3 @@ install_requires=get_requirements('requirements.txt')
 
 )
 
-import pandas 
-import numpy as np
-import matplotlib as pltgit 
